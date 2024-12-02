@@ -1,0 +1,12 @@
+.virtual-seamless-scroll {
+    overflow: hidden;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.vertical {}
+
+.horizontal {
+    display: inline-flex;
+    white-space: nowrap;
+}

@@ -1,0 +1,17 @@
+.list-box {
+    width: 300px;
+    height: 200px;
+}
+
+.i-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    line-height: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.i-item1 {
+    height: 60px;
+    line-height: 60px;
+}
